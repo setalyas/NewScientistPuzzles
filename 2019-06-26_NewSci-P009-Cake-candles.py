@@ -6,7 +6,6 @@ Created on Wed Jul 10 14:23:40 2019
 """
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 size = 100000
 x = np.random.ranf(size)
